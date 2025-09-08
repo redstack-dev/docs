@@ -11,12 +11,16 @@
   </p>
 </div>
 
-<p align="center">
+<h1 align="center">
   Red Stack React Boilerplate Documentation
-</p>
+</h1>
 
 ## 📖 Documentation Navigation
 
 - [🏗 Architecture](./architecture/) → Clean Architecture, SOLID, and DDD principles
 - [📏 Style Guides](./style-guides/) → Naming conventions, code organization, and best practices  
 - [🧪 Unit Testing](./unit-testing/) → Classical school testing methodology
+
+## 🤖 AI-Powered Documentation
+
+- [📚 Context7 Documentation](https://context7.com/redstack-dev/docs) → AI-powered documentation and code examples
