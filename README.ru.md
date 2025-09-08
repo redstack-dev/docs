@@ -11,7 +11,9 @@
   </p>
 </div>
 
-# Документация Red Stack React Boilerplate
+<p align="center">
+  Документация Red Stack React Boilerplate
+</p>
 
 ## 📖 Навигация по документации
 
